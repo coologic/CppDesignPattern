@@ -28,9 +28,9 @@ private:
     class SingletonDel {
     public:
         ~SingletonDel() {
-            if (m_instance != NULL) {
+            if (m_instance != nullptr) {
                 delete m_instance;
-                m_instance = NULL;
+                m_instance = nullptr;
             }
         }
     };

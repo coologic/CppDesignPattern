@@ -7,7 +7,7 @@ namespace thread_safe_singleton_private {
 ThreadSafeSingleton* ThreadSafeSingleton::m_instance = nullptr;
 ThreadSafeSingleton *ThreadSafeSingleton::GetInstance() {
     if (m_instance == nullptr) {
-        QMutexLocker lock(thread_safe_singleton_private::mutex);
+        QMutexLocker lock(&thread_safe_singleton_private::mutex);
         if (m_instance == nullptr) {
             m_instance = new ThreadSafeSingleton();
         }

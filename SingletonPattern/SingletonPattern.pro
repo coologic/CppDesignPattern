@@ -20,4 +20,5 @@ SOURCES += main.cpp \
 
 HEADERS += \
     sigleton.h \
-    thread_safe_singleton.h
+    thread_safe_singleton.h \
+    cpp11_sigleton.h
