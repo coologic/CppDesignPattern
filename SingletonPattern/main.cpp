@@ -14,13 +14,3 @@ int main(int argc, char *argv[]) {
     Cpp11Sigleton<TestCpp11Sigleton>::GetInstance();
     Cpp11Sigleton<TestCpp11Sigleton>::GetInstance();
 }
-
-//template<typename... Args>
-//static T* Instance(Args&&... args) {
-//    if(m_pInstance==nullptr)
-
-//        m_pInstance = new T(std::forward<Args>(args)...);
-
-//    return m_pInstance;
-
-//}
