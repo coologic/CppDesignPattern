@@ -25,3 +25,12 @@ C++设计模式实现，Qt项目
 ## ProxyPattern  
 代理模式  
 * Blog：[C++设计模式-代理模式](http://techieliang.com/2017/12/802/)  
+
+## MediatorPattern  
+中介者模式  
+* Blog：[C++设计模式-中介者模式](http://techieliang.com/2017/12/806/)  
+
+## CommandPattern  
+命令模式 
+* Blog：[C++设计模式-命令模式](http://techieliang.com/2017/12/808/)  
+
