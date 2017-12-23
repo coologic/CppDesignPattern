@@ -14,3 +14,14 @@ C++设计模式实现，Qt项目
 模板方法模式  
 * Blog：[C++设计模式-模板方法模式](http://techieliang.com/2017/12/790/)  
 
+## BuilderPattern  
+建造者模式  
+* Blog：[C++设计模式-建造者模式](http://techieliang.com/2017/12/794/)  
+
+## PrototypePattern  
+原型模式  
+* Blog：[C++设计模式-原型模式](http://techieliang.com/2017/12/799/)  
+
+## ProxyPattern  
+代理模式  
+* Blog：[C++设计模式-代理模式](http://techieliang.com/2017/12/802/)  
