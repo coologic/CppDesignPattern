@@ -34,3 +34,7 @@ C++设计模式实现，Qt项目
 命令模式 
 * Blog：[C++设计模式-命令模式](http://techieliang.com/2017/12/808/)  
 
+## ChainResponsibilityPattern  
+命令模式 
+* Blog：[C++设计模式-责任链模式](http://techieliang.com/2017/12/811/)  
+
