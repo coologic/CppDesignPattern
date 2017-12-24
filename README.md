@@ -1,6 +1,7 @@
 # CppDesignPattern
 C++设计模式实现，Qt项目  
 * Blog：[http://techieliang.com](http://techieliang.com/2017/12/764/)   
+* 范例在main文件测试完毕后大部分都忘了delete，留下这戏错误提醒以后不要再犯。。。使用各种模式时请根据情况管理指针
 
 ## SingletonPattern  
 单例模式  
@@ -35,6 +36,18 @@ C++设计模式实现，Qt项目
 * Blog：[C++设计模式-命令模式](http://techieliang.com/2017/12/808/)  
 
 ## ChainResponsibilityPattern  
-命令模式 
+责任链模式
 * Blog：[C++设计模式-责任链模式](http://techieliang.com/2017/12/811/)  
+
+## DecoratorPattern  
+装饰模式 
+* Blog：[C++设计模式-装饰模式](http://techieliang.com/2017/12/815/)  
+
+## StrategyPattern  
+策略模式 
+* Blog：[C++设计模式-策略模式](http://techieliang.com/2017/12/819/)  
+
+## AdapterPattern  
+适配器模式 
+* Blog：[C++设计模式-适配器模式](http://techieliang.com/2017/12/821/)  
 
