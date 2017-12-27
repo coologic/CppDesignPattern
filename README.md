@@ -63,3 +63,15 @@ C++设计模式实现，Qt项目
 门面模式，比较简单，没做范例 
 * Blog：[C++设计模式-门面模式](http://techieliang.com/2017/12/831/)  
 
+## MementoPattern
+备忘录模式
+* Blog：[C++设计模式-备忘录模式](http://techieliang.com/2017/12/835/)  
+
+## VisitorPattern
+访问者模式
+* Blog：[C++设计模式-访问者模式](http://techieliang.com/2017/12/838/)  
+
+
+## StatePattern
+状态模式
+* Blog：[C++设计模式-状态模式](http://techieliang.com/2017/12/840/)  
