@@ -51,3 +51,15 @@ C++设计模式实现，Qt项目
 适配器模式 
 * Blog：[C++设计模式-适配器模式](http://techieliang.com/2017/12/821/)  
 
+## CompositePattern  
+组合模式 
+* Blog：[C++设计模式-组合模式](http://techieliang.com/2017/12/826/)  
+
+## ObserverPattern  
+观察者模式 
+* Blog：[C++设计模式-观察者模式](http://techieliang.com/2017/12/829/)  
+
+## FacadePattern
+门面模式，比较简单，没做范例 
+* Blog：[C++设计模式-门面模式](http://techieliang.com/2017/12/831/)  
+
